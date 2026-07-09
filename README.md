@@ -1,6 +1,6 @@
 # Sprint-04-CSE310 TypeScript Calculator
 
-Add a description of your project here.
+This is a single input calculator. I wanted to do this project because I HATE the simple multi-input calculators that you do when first learning a language as they are slow and primitive. Now I have something that is fast and equally primitive,
 
 ## Instructions for Build and Use
 
